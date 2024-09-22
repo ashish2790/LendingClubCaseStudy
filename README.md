@@ -1,6 +1,4 @@
-# Project Name
-# LendingClubCaseStudy
-
+# Project Name : LendingClubCaseStudy
 
 ## Table of Contents
 * [General Info](#general-information)
