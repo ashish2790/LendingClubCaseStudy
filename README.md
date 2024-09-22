@@ -28,8 +28,8 @@ The company wants to understand the driving factors (or driver variables) behind
 
 
 ## Conclusions
-### Summary of EDA
-1.  States CA, NY, FL and TX are the states for which maximum loans have been issued
+Summary
+ 1.  States CA, NY, FL and TX are the states for which maximum loans have been issued
 2.  Maximum loans are given for debt consolidation, paying off Credit card and 'other' reasons
 3.  Education and renewable energy is the least category where loans have been given
 4.  People who are in Rented house or Mortgate have availed maximum loans
