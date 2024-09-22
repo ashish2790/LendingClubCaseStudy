@@ -38,6 +38,7 @@ Summary
 7.  Based on the counts, Grade B, C and D are top three in Charged Off
 8.  Borrowers from Other category have highest tendency to default the loan.
 9.  Tendency to default the loan is increasing from Grade A to Grade G
+10.  Employment length of 10 years got more loans and they are the maximum defaulters
 <hr>
 
 ## Technologies Used
@@ -53,13 +54,7 @@ As a case study is it been given by IITB.
 <hr>
 
 ## Contact
-Created by Ashish Bhavsar [@ashish] - feel free to contact me!
-
-
-
-
-10.  Employment length of 10 years got more loans and they are the maximum defaulters
-<hr>
+Created by Ashish Bhavsar [@ashish2790] - feel free to contact me!
 
 ### Contributor
 Ashish Bhavsar 
