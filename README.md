@@ -4,7 +4,7 @@
 The company is a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
-
+<hr>
 ### Steps for EDA
 1.  Data evaluation
 2.  Data Cleaning and Manipulation
@@ -13,7 +13,7 @@ The company wants to understand the driving factors (or driver variables) behind
   1.  Univariate analysis
   2.  Bivariate analysis
   3.  Multivariate Analysis
-
+<hr>
 ### Summary of EDA
 1.  States CA, NY, FL and TX are the states for which maximum loans have been issued
 2.  Maximum loans are given for debt consolidation, paying off Credit card and 'other' reasons
