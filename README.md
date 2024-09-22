@@ -54,8 +54,4 @@ As a case study is it been given by IITB.
 <hr>
 
 ## Contact
-Created by Ashish Bhavsar [@ashish2790] - feel free to contact me!
-
-### Contributor
-Ashish Bhavsar 
-Feel free to contact me!!
+Created by Ashish Bhavsar [[@ashish2790](https://github.com/ashish2790)] - feel free to contact me!
