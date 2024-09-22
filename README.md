@@ -25,3 +25,10 @@ The company wants to understand the driving factors (or driver variables) behind
 6.  21 - 25% is the range where minimum loans have been issued
 7.  Based on the counts, Grade B, C and D are top three in Charged Off
 8.  Borrowers from Other category have highest tendency to default the loan.
+9.  Tendency to default the loan is increasing from Grade A to Grade G
+10.  Employment length of 10 years got more loans and they are the maximum defaulters
+<hr>
+
+### Contributor
+Ashish Bhavsar 
+Feel free to contact me!!
